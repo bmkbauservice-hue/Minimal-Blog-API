@@ -67,3 +67,10 @@ Data is kept in memory and is lost when the app stops.
 ## Next step
 
 `step-02-validation`
+
+
+## Projektübersicht
+
+Die folgende Zeichnung zeigt den Aufbau der **Minimal Blog API** und den Ablauf von Anfrage, Validierung, Services und Fehlerbehandlung:
+
+![Minimal Blog API – Übersicht](docs/minimal-blog-api-uebersicht.png)
